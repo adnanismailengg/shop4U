@@ -1,0 +1,41 @@
+.product-form {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+    display: block;
+}
+
+.product-item {
+    width: 20rem;
+    max-width: 80%;
+    margin: 1rem;
+    border-radius: 50px;
+    box-shadow: 3px 5px 5px 3px #b2eafd;
+}
+
+.product__title {
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: 'Lato','Arial','Sans-Serif';
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.product__price {
+    text-align: center;
+    color: #4d4d4d;
+    margin-bottom: 0.5rem;
+    
+}
+
+.product__description {
+    text-align: center;
+    font-family: 'Lato','Arial','Sans-Serif';
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.card__image img{
+    border-radius: 10px;
+    
+}
